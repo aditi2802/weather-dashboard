@@ -1,0 +1,7 @@
+.weather-card{
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  background: white;
+  max-width: 100px;
+}

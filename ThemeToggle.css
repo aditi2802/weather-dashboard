@@ -1,0 +1,8 @@
+.theme-toggle{
+  margin-bottom: 1rem;
+  cursor: pointer;
+  padding: 1rem;
+  background: red;
+  color: white;
+  border-radius: 5px;
+}
